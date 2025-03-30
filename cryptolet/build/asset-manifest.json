@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.22f95370.css",
+    "main.js": "/static/js/main.355379b2.js",
+    "static/media/noImg.png": "/static/media/noImg.c8524b4819bc2c88e490.png",
+    "static/media/ethereumLogo.svg": "/static/media/ethereumLogo.89366d1c038c0ee02dcc59cb20ac6bcd.svg",
+    "index.html": "/index.html",
+    "main.22f95370.css.map": "/static/css/main.22f95370.css.map",
+    "main.355379b2.js.map": "/static/js/main.355379b2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.22f95370.css",
+    "static/js/main.355379b2.js"
+  ]
+}
